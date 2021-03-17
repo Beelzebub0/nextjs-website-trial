@@ -12,7 +12,7 @@ function Home() {
       <section className="hero">
         <div className="container">
           <div className="text-wrapper">
-            <h1 className="title">My name is Lucifer</h1>
+            <h1 className="title">My name is whatzittooya</h1>
             <p className="description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat a dolore repellat beatae quisquam, nobis maxime quidem architecto alias suscipit blanditiis. Itaque repudiandae accusamus expedita quos voluptates iste labore iure?</p>
 
             <Link href="/contact"><a className="cta">Contact me</a></Link>
